@@ -5,8 +5,7 @@
 }
 
 #contenitore_padre {
-    flex: content;
-    justify-content: center;
+    dispaly: flex justify-content: center;
     margin-bottom: 50px;
 }
 
@@ -23,16 +22,6 @@
     border: 2px solid lightgray
 }
 
-.flex_basis {
-    flex-basis: 100px;
-}
-
-.schede_modelli {
-    padding-left: 630px;
-    padding-right: 631px;
-    justify-content: center;
-
-}
 
 .flex_start {
     justify-content: flex-start;
