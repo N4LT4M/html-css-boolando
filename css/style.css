@@ -5,14 +5,38 @@
 }
 
 #contenitore_padre {
-
-    text-align: center;
+    flex: content;
+    justify-content: center;
+    margin-bottom: 50px;
 }
 
 .font_size_150 {
     font-size: 150%;
+    text-align: center;
 }
 
 .strike_text {
     text-decoration: line-through;
+}
+
+.border {
+    border: 2px solid lightgray
+}
+
+.flex_basis {
+    flex-basis: 100px;
+}
+
+.padding {
+    padding-left: 630px;
+    padding-right: 631px;
+}
+
+.flex_start {
+    justify-content: flex-start;
+}
+
+.text_red {
+
+    color: red;
 }
