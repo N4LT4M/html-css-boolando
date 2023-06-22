@@ -27,9 +27,11 @@
     flex-basis: 100px;
 }
 
-.padding {
+.schede_modelli {
     padding-left: 630px;
     padding-right: 631px;
+    justify-content: center;
+
 }
 
 .flex_start {
